@@ -1,0 +1,11 @@
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-image: url('imagenes/rick.jpg'); /* Ruta relativa a la carpeta 'imagenes' */
+  background-size: cover; /* Opcional: ajusta el tamaño de la imagen al contenedor */
+  background-repeat: no-repeat; /* Opcional: evita la repetición de la imagen */
+  background-attachment: fixed; /* Opcional: fija la imagen de fondo */
+}
+
